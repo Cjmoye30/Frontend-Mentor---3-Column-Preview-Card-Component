@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Cjmoye30/Frontend-Mentor---3-Column-Preview-Card-Component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://cjmoye30.github.io/Frontend-Mentor---3-Column-Preview-Card-Component/]
 
 ## My process
 
